@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище GameStoreModelContainer" CdmEntityContainer="GameStoreEntities7">
+    <EntitySetMapping Name="CheckInf">
+      <EntityTypeMapping TypeName="GameStoreModel.CheckInf">
+        <MappingFragment StoreEntitySet="CheckInf">
+          <ScalarProperty Name="check_id" ColumnName="check_id" />
+          <ScalarProperty Name="game_id" ColumnName="game_id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="price" ColumnName="price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Developer">
+      <EntityTypeMapping TypeName="GameStoreModel.Developer">
+        <MappingFragment StoreEntitySet="Developer">
+          <ScalarProperty Name="developer_id" ColumnName="developer_id" />
+          <ScalarProperty Name="names" ColumnName="names" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Games">
+      <EntityTypeMapping TypeName="GameStoreModel.Games">
+        <MappingFragment StoreEntitySet="Games">
+          <ScalarProperty Name="game_id" ColumnName="game_id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="genre_id" ColumnName="genre_id" />
+          <ScalarProperty Name="platform_id" ColumnName="platform_id" />
+          <ScalarProperty Name="developer_id" ColumnName="developer_id" />
+          <ScalarProperty Name="publisher_id" ColumnName="publisher_id" />
+          <ScalarProperty Name="release_year" ColumnName="release_year" />
+          <ScalarProperty Name="price" ColumnName="price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Genre">
+      <EntityTypeMapping TypeName="GameStoreModel.Genre">
+        <MappingFragment StoreEntitySet="Genre">
+          <ScalarProperty Name="genre_id" ColumnName="genre_id" />
+          <ScalarProperty Name="names" ColumnName="names" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="GameStoreModel.Orders">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="order_id" ColumnName="order_id" />
+          <ScalarProperty Name="users_id" ColumnName="users_id" />
+          <ScalarProperty Name="order_date" ColumnName="order_date" />
+          <ScalarProperty Name="status_id" ColumnName="status_id" />
+          <ScalarProperty Name="game_id" ColumnName="game_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Platforms">
+      <EntityTypeMapping TypeName="GameStoreModel.Platforms">
+        <MappingFragment StoreEntitySet="Platforms">
+          <ScalarProperty Name="platform_id" ColumnName="platform_id" />
+          <ScalarProperty Name="names" ColumnName="names" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Publisher">
+      <EntityTypeMapping TypeName="GameStoreModel.Publisher">
+        <MappingFragment StoreEntitySet="Publisher">
+          <ScalarProperty Name="publisher_id" ColumnName="publisher_id" />
+          <ScalarProperty Name="names" ColumnName="names" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rating">
+      <EntityTypeMapping TypeName="GameStoreModel.Rating">
+        <MappingFragment StoreEntitySet="Rating">
+          <ScalarProperty Name="game_id" ColumnName="game_id" />
+          <ScalarProperty Name="average_rating" ColumnName="average_rating" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Review">
+      <EntityTypeMapping TypeName="GameStoreModel.Review">
+        <MappingFragment StoreEntitySet="Review">
+          <ScalarProperty Name="review_id" ColumnName="review_id" />
+          <ScalarProperty Name="review_text" ColumnName="review_text" />
+          <ScalarProperty Name="rating" ColumnName="rating" />
+          <ScalarProperty Name="game_id" ColumnName="game_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="GameStoreModel.Roles">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="role_id" ColumnName="role_id" />
+          <ScalarProperty Name="roles1" ColumnName="roles" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Statuss">
+      <EntityTypeMapping TypeName="GameStoreModel.Statuss">
+        <MappingFragment StoreEntitySet="Statuss">
+          <ScalarProperty Name="status_id" ColumnName="status_id" />
+          <ScalarProperty Name="statuss1" ColumnName="statuss" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="GameStoreModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="users_id" ColumnName="users_id" />
+          <ScalarProperty Name="firstname" ColumnName="firstname" />
+          <ScalarProperty Name="lastname" ColumnName="lastname" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="passwords" ColumnName="passwords" />
+          <ScalarProperty Name="shipping_address" ColumnName="shipping_address" />
+          <ScalarProperty Name="role_id" ColumnName="role_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

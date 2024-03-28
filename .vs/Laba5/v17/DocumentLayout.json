@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\semen\\source\\repos\\Laba5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF29196A-0779-4551-A62A-686E8EA3C9DC}|Laba5\\Laba5.csproj|C:\\Users\\semen\\source\\repos\\Laba5\\laba5\\cashier.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF29196A-0779-4551-A62A-686E8EA3C9DC}|Laba5\\Laba5.csproj|solutionrelative:laba5\\cashier.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF29196A-0779-4551-A62A-686E8EA3C9DC}|Laba5\\Laba5.csproj|C:\\Users\\semen\\source\\repos\\Laba5\\laba5\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF29196A-0779-4551-A62A-686E8EA3C9DC}|Laba5\\Laba5.csproj|solutionrelative:laba5\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF29196A-0779-4551-A62A-686E8EA3C9DC}|Laba5\\Laba5.csproj|C:\\Users\\semen\\source\\repos\\Laba5\\laba5\\cashier.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF29196A-0779-4551-A62A-686E8EA3C9DC}|Laba5\\Laba5.csproj|solutionrelative:laba5\\cashier.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF29196A-0779-4551-A62A-686E8EA3C9DC}|Laba5\\Laba5.csproj|c:\\users\\semen\\source\\repos\\laba5\\laba5\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF29196A-0779-4551-A62A-686E8EA3C9DC}|Laba5\\Laba5.csproj|solutionrelative:laba5\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF29196A-0779-4551-A62A-686E8EA3C9DC}|Laba5\\Laba5.csproj|C:\\Users\\semen\\source\\repos\\Laba5\\laba5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF29196A-0779-4551-A62A-686E8EA3C9DC}|Laba5\\Laba5.csproj|solutionrelative:laba5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF29196A-0779-4551-A62A-686E8EA3C9DC}|Laba5\\Laba5.csproj|C:\\Users\\semen\\source\\repos\\Laba5\\laba5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF29196A-0779-4551-A62A-686E8EA3C9DC}|Laba5\\Laba5.csproj|solutionrelative:laba5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cashier.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba5\\Laba5\\Cashier.xaml.cs",
+              "RelativeDocumentMoniker": "Laba5\\Cashier.xaml.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba5\\Laba5\\Cashier.xaml.cs",
+              "RelativeToolTip": "Laba5\\Cashier.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:19:52.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cashier.xaml",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba5\\Laba5\\Cashier.xaml",
+              "RelativeDocumentMoniker": "Laba5\\Cashier.xaml",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba5\\Laba5\\Cashier.xaml",
+              "RelativeToolTip": "Laba5\\Cashier.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T16:19:30.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba5\\Laba5\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "Laba5\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba5\\Laba5\\AdminWindow.xaml",
+              "RelativeToolTip": "Laba5\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T10:49:09.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba5\\Laba5\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Laba5\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba5\\Laba5\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "Laba5\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwIcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:30:24.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba5\\Laba5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Laba5\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba5\\Laba5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Laba5\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:20:32.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba5\\Laba5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Laba5\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba5\\Laba5\\MainWindow.xaml",
+              "RelativeToolTip": "Laba5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T11:20:28.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
